@@ -379,6 +379,9 @@ nav.open ~ .overlay {
     .social-menu ul li {
         margin: 5px 0;
     }
+    .social-menu ul li a{
+        margin:5px;
+    }
     body {
         margin: 0;
     }
