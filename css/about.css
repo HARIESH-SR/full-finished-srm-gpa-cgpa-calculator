@@ -124,7 +124,11 @@ footer {
     bottom: 0;
     height: 130px; /* Adjust the height as needed */
     backdrop-filter: blur(5px);
+<<<<<<< HEAD
     /* z-index : 0; */
+=======
+    z-index : -1;
+>>>>>>> d4d1a781ead0f428fc5c00ea7c8f36a8798b125f
 }
 
 
