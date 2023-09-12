@@ -120,11 +120,11 @@ footer {
     text-align: center;
     color: #ecf0f1;
     width: 60%;
-    position: relative;
+    position: bottom;
     bottom: 0;
     height: 130px; /* Adjust the height as needed */
     backdrop-filter: blur(5px);
-    
+    z-index : -1;
 }
 
 
